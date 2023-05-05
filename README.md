@@ -8,5 +8,5 @@ Using PostgreSQL, this project involved creating a database of celestial bodies,
 ### Exercises
 ##
 #### Student DB 1 
-This is a code dump of a student database that was created and filled using bash scripting. Two .csv files were provided by FCC, students.csv and courses.csv. Using bash scripting, the files were parsed through line by line and student, major, and gpa information was gathered and placed in the appropriate table.
+This is a code dump of a postgreSQL student database that was created and filled using bash scripting. Two .csv files were provided by FCC, students.csv and courses.csv. Using bash scripting, the files were parsed through line by line and student, major, and gpa information was gathered and placed in the appropriate table.
 
